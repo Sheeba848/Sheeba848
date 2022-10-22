@@ -2,7 +2,7 @@
 - 👀 I’m interested in .Software testing..
 - 🌱 I’m currently learning Postman tool...
 - 💞️ I’m looking to collaborate on Software testing...
-- 📫 How to reach me ..9745217857.
+- 📫 How to reach me .sheeba848@gmail.com
 
 <!---
 Sheeba848/Sheeba848 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
